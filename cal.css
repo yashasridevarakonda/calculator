@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+.cal{
+    border:2px solid black;
+    padding:20px;
+    background-color:burlywood;
+}
+input{
+    margin-bottom: 5%;
+    width:240px;
+    height: 40px;
+}
+button{
+    width:50px;
+    height:50px;
+    margin:5px;
+    font-size:20px;
+}
